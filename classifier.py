@@ -3,7 +3,6 @@ import cv2 as cv
 import numpy as np
 import matplotlib.pyplot as plt
 import os
-import time 
 
 with open("training_labels_clean.json", "r", encoding="utf-8") as f:
     training_data = json.load(f)
@@ -15,8 +14,8 @@ labels_map = {
 }
 def feature_extract(img):
     root = os.getcwd()
-    data_folder = os.join(root, "/data/training_data/")
-    img_path = os.join(data_folder, img)
+    img_path = os.path.join(root, 'data', 'training_data', img)
+    print(f"Extracting featuress from {img_path}")
 
     frame = cv.imread(img_path)
     gray_frame = cv.cvtColor(frame, cv.COLOR_BGR2GRAY)
@@ -47,15 +46,31 @@ def feature_extract(img):
     haar_face_cascade = cv.CascadeClassifier("data/haarcascade_frontalface_alt.xml")
     faces = haar_face_cascade.detectMultiScale(gray_frame, scaleFactor=1.1, minNeighbors=5)
     print("Faces found: ", len(faces))
-    w = faces[0][2]
-    h = faces[0][3]
-    face_frac = w * h / total_pixels
-    print(face_frac)
-
+    if len(faces) > 0: 
+        w = faces[0][2]
+        h = faces[0][3]
+        face_frac = w * h / total_pixels
+        print(face_frac)
+    else: 
+        face_frac = 0.0
     return [edge_density, avg_bright, face_frac]
 
 X = []
-Y = []
+y = []
 
+for item in training_data:
+    img = item["file_name"]
+    
+    x_i = feature_extract(img)
+    y_i = labels_map[item["shot_type"]] #y__binary = np.array([1 if label==0 else 0 for label in y])
+
+    X.append(x_i)
+    y.append(y_i)
+
+X = np.array(X)
+y = np.array(y)
+
+print(X)
+print(y)
 
 

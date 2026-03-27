@@ -22,12 +22,12 @@
 {
   "still": "\/data\/upload\/1\/e3ea8c77-03.jpg",
   "id": 3,
-  "shot_type": "medium",
+  "shot_type": "close_up",
   "annotator": 1,
   "annotation_id": 3,
   "created_at": "2026-03-26T21:15:05.846904Z",
-  "updated_at": "2026-03-26T21:15:05.846925Z",
-  "lead_time": 3.7
+  "updated_at": "2026-03-27T19:16:13.105835Z",
+  "lead_time": 5.937
 },
 {
   "still": "\/data\/upload\/1\/30d81519-The-Harder-They-Fall-17.jpg",
@@ -82,12 +82,12 @@
 {
   "still": "\/data\/upload\/1\/72dca25f-paradiselove024.jpg",
   "id": 9,
-  "shot_type": "medium",
+  "shot_type": "wide",
   "annotator": 1,
   "annotation_id": 9,
   "created_at": "2026-03-26T21:17:35.821429Z",
-  "updated_at": "2026-03-26T21:17:35.821457Z",
-  "lead_time": 23.22
+  "updated_at": "2026-03-27T19:24:46.397577Z",
+  "lead_time": 57.281
 },
 {
   "still": "\/data\/upload\/1\/637c89d6-10.jpg",
@@ -102,12 +102,12 @@
 {
   "still": "\/data\/upload\/1\/2b5db76e-bluelamp025.jpg",
   "id": 11,
-  "shot_type": "medium",
+  "shot_type": "close_up",
   "annotator": 1,
   "annotation_id": 11,
   "created_at": "2026-03-26T21:17:53.341998Z",
-  "updated_at": "2026-03-26T21:17:53.342020Z",
-  "lead_time": 10.42
+  "updated_at": "2026-03-27T19:28:40.137194Z",
+  "lead_time": 77.537
 },
 {
   "still": "\/data\/upload\/1\/d288c20d-all-or-nothing-001.jpg",
@@ -152,12 +152,12 @@
 {
   "still": "\/data\/upload\/1\/3867c880-32-1076.jpg",
   "id": 16,
-  "shot_type": "medium",
+  "shot_type": "close_up",
   "annotator": 1,
   "annotation_id": 16,
   "created_at": "2026-03-26T21:18:18.792021Z",
-  "updated_at": "2026-03-26T21:18:18.792048Z",
-  "lead_time": 4.769
+  "updated_at": "2026-03-27T19:30:12.558085Z",
+  "lead_time": 45.018
 },
 {
   "still": "\/data\/upload\/1\/5a908913-The-Nowhere-Inn-019.jpg",
@@ -192,22 +192,22 @@
 {
   "still": "\/data\/upload\/1\/e0518046-Censor-054.jpg",
   "id": 20,
-  "shot_type": "medium",
+  "shot_type": "close_up",
   "annotator": 1,
   "annotation_id": 20,
   "created_at": "2026-03-26T21:18:55.973113Z",
-  "updated_at": "2026-03-26T21:18:55.973134Z",
-  "lead_time": 16.766
+  "updated_at": "2026-03-27T19:17:07.343377Z",
+  "lead_time": 25.268
 },
 {
   "still": "\/data\/upload\/1\/6c491b2c-lasthouse011.jpg",
   "id": 21,
-  "shot_type": "medium",
+  "shot_type": "close_up",
   "annotator": 1,
   "annotation_id": 21,
   "created_at": "2026-03-26T21:19:01.983245Z",
-  "updated_at": "2026-03-26T21:19:01.983272Z",
-  "lead_time": 4.684
+  "updated_at": "2026-03-27T19:17:15.136414Z",
+  "lead_time": 11.368
 },
 {
   "still": "\/data\/upload\/1\/18734bd3-26.jpg",
@@ -312,12 +312,12 @@
 {
   "still": "\/data\/upload\/1\/2b7a5d64-53.jpg",
   "id": 32,
-  "shot_type": "medium",
+  "shot_type": "wide",
   "annotator": 1,
   "annotation_id": 32,
   "created_at": "2026-03-26T21:20:15.555582Z",
-  "updated_at": "2026-03-26T21:20:15.555605Z",
-  "lead_time": 19.647
+  "updated_at": "2026-03-27T19:18:53.326779Z",
+  "lead_time": 46.111
 },
 {
   "still": "\/data\/upload\/1\/1dc04046-3810.jpg",
@@ -386,8 +386,8 @@
   "annotator": 1,
   "annotation_id": 39,
   "created_at": "2026-03-26T21:20:54.867089Z",
-  "updated_at": "2026-03-26T21:20:54.867109Z",
-  "lead_time": 5.827
+  "updated_at": "2026-03-27T19:24:36.579299Z",
+  "lead_time": 32.548
 },
 {
   "still": "\/data\/upload\/1\/96272d4a-3112.jpg",
@@ -552,12 +552,12 @@
 {
   "still": "\/data\/upload\/1\/77222714-34.jpg",
   "id": 56,
-  "shot_type": "medium",
+  "shot_type": "close_up",
   "annotator": 1,
   "annotation_id": 56,
   "created_at": "2026-03-26T21:24:03.494462Z",
-  "updated_at": "2026-03-26T21:24:03.494482Z",
-  "lead_time": 11.962
+  "updated_at": "2026-03-27T19:19:59.048850Z",
+  "lead_time": 15.827
 },
 {
   "still": "\/data\/upload\/1\/127176b5-In-Water-32.jpg",
@@ -572,12 +572,12 @@
 {
   "still": "\/data\/upload\/1\/f6df775b-Southland-Tales-036.jpg",
   "id": 58,
-  "shot_type": "medium",
+  "shot_type": "close_up",
   "annotator": 1,
   "annotation_id": 58,
   "created_at": "2026-03-26T21:24:09.763568Z",
-  "updated_at": "2026-03-26T21:24:09.763590Z",
-  "lead_time": 2.511
+  "updated_at": "2026-03-27T19:21:27.407502Z",
+  "lead_time": 43.487
 },
 {
   "still": "\/data\/upload\/1\/db4d6ab9-49-97.jpg",
@@ -602,12 +602,12 @@
 {
   "still": "\/data\/upload\/1\/c6b0b400-House-of-Gucci-25.jpg",
   "id": 61,
-  "shot_type": "medium",
+  "shot_type": "wide",
   "annotator": 1,
   "annotation_id": 61,
   "created_at": "2026-03-26T21:24:22.779760Z",
-  "updated_at": "2026-03-26T21:24:39.875765Z",
-  "lead_time": 22.256999999999998
+  "updated_at": "2026-03-27T19:22:09.842798Z",
+  "lead_time": 60.455999999999996
 },
 {
   "still": "\/data\/upload\/1\/9f68666b-44-2.jpg",
@@ -622,12 +622,12 @@
 {
   "still": "\/data\/upload\/1\/9c0b537c-15.jpg",
   "id": 63,
-  "shot_type": "medium",
+  "shot_type": "close_up",
   "annotator": 1,
   "annotation_id": 63,
   "created_at": "2026-03-26T21:24:46.625182Z",
-  "updated_at": "2026-03-26T21:24:46.625201Z",
-  "lead_time": 1.947
+  "updated_at": "2026-03-27T19:22:18.697494Z",
+  "lead_time": 7.727
 },
 {
   "still": "\/data\/upload\/1\/15a39b24-36-1283.jpg",
@@ -652,12 +652,12 @@
 {
   "still": "\/data\/upload\/1\/f35571e3-smokin024.jpg",
   "id": 66,
-  "shot_type": "medium",
+  "shot_type": "close_up",
   "annotator": 1,
   "annotation_id": 66,
   "created_at": "2026-03-26T21:24:56.950601Z",
-  "updated_at": "2026-03-26T21:24:56.950626Z",
-  "lead_time": 2.567
+  "updated_at": "2026-03-27T19:22:27.950524Z",
+  "lead_time": 4.949
 },
 {
   "still": "\/data\/upload\/1\/a33c735a-Lady-In-The-Water-019.jpg",
@@ -702,12 +702,12 @@
 {
   "still": "\/data\/upload\/1\/b6178a63-The-Exorcist-3-035.jpg",
   "id": 71,
-  "shot_type": "medium",
+  "shot_type": "wide",
   "annotator": 1,
   "annotation_id": 71,
   "created_at": "2026-03-26T21:25:25.902398Z",
-  "updated_at": "2026-03-26T21:25:25.902422Z",
-  "lead_time": 8.255
+  "updated_at": "2026-03-27T19:25:36.965936Z",
+  "lead_time": 9.629000000000001
 },
 {
   "still": "\/data\/upload\/1\/85026508-Zama_001.jpg",
@@ -852,12 +852,12 @@
 {
   "still": "\/data\/upload\/1\/a929e08b-58.jpg",
   "id": 86,
-  "shot_type": "medium",
+  "shot_type": "close_up",
   "annotator": 1,
   "annotation_id": 86,
   "created_at": "2026-03-26T21:26:31.171411Z",
-  "updated_at": "2026-03-26T21:26:31.171430Z",
-  "lead_time": 2.478
+  "updated_at": "2026-03-27T19:26:15.841760Z",
+  "lead_time": 6.2620000000000005
 },
 {
   "still": "\/data\/upload\/1\/5b046a39-Blonde-29.jpg",
@@ -882,12 +882,12 @@
 {
   "still": "\/data\/upload\/1\/99f39a91-Gun-Crazy-15.jpg",
   "id": 89,
-  "shot_type": "medium",
+  "shot_type": "close_up",
   "annotator": 1,
   "annotation_id": 89,
   "created_at": "2026-03-26T21:26:56.174910Z",
-  "updated_at": "2026-03-26T21:26:56.174928Z",
-  "lead_time": 16.15
+  "updated_at": "2026-03-27T19:26:38.906075Z",
+  "lead_time": 20.366
 },
 {
   "still": "\/data\/upload\/1\/d75e2384-43-365.jpg",

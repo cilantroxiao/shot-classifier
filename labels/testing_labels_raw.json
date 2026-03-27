@@ -1,0 +1,212 @@
+[
+{
+  "still": "\/data\/upload\/2\/9d5f41f3-Spy-Game-010.jpg",
+  "id": 101,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 101,
+  "created_at": "2026-03-27T19:07:43.763024Z",
+  "updated_at": "2026-03-27T19:12:45.391631Z",
+  "lead_time": 9.594
+},
+{
+  "still": "\/data\/upload\/2\/67db68fa-Hellraiser-Judgement-016.jpg",
+  "id": 102,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 121,
+  "created_at": "2026-03-27T19:10:13.958255Z",
+  "updated_at": "2026-03-27T19:12:42.972426Z",
+  "lead_time": 33.344
+},
+{
+  "still": "\/data\/upload\/2\/fc103311-11.jpg",
+  "id": 103,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 120,
+  "created_at": "2026-03-27T19:10:11.663266Z",
+  "updated_at": "2026-03-27T19:10:11.663291Z",
+  "lead_time": 2.464
+},
+{
+  "still": "\/data\/upload\/2\/d37726df-rebecca038.jpg",
+  "id": 104,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 119,
+  "created_at": "2026-03-27T19:10:10.118226Z",
+  "updated_at": "2026-03-27T19:10:10.118251Z",
+  "lead_time": 3.0330000000000004
+},
+{
+  "still": "\/data\/upload\/2\/7fb39265-04-662.jpg",
+  "id": 105,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 118,
+  "created_at": "2026-03-27T19:10:08.123635Z",
+  "updated_at": "2026-03-27T19:10:08.123664Z",
+  "lead_time": 7.897
+},
+{
+  "still": "\/data\/upload\/2\/47519595-52-527.jpg",
+  "id": 106,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 117,
+  "created_at": "2026-03-27T19:10:05.110438Z",
+  "updated_at": "2026-03-27T19:10:05.110457Z",
+  "lead_time": 8.799999999999999
+},
+{
+  "still": "\/data\/upload\/2\/3f6de370-The-Cooler-012.jpg",
+  "id": 107,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 116,
+  "created_at": "2026-03-27T19:10:02.800096Z",
+  "updated_at": "2026-03-27T19:10:02.800124Z",
+  "lead_time": 3.077
+},
+{
+  "still": "\/data\/upload\/2\/7723a2b9-Velvet-Buzzsaw-025.jpg",
+  "id": 108,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 115,
+  "created_at": "2026-03-27T19:10:01.143675Z",
+  "updated_at": "2026-03-27T19:13:00.918185Z",
+  "lead_time": 12.267
+},
+{
+  "still": "\/data\/upload\/2\/f005d26e-Room-For-Rent-019.jpg",
+  "id": 109,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 114,
+  "created_at": "2026-03-27T19:09:59.525723Z",
+  "updated_at": "2026-03-27T19:09:59.525745Z",
+  "lead_time": 3.401
+},
+{
+  "still": "\/data\/upload\/2\/a1dfb1a4-Under-The-Silver-Lake-021.jpg",
+  "id": 110,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 113,
+  "created_at": "2026-03-27T19:09:57.151958Z",
+  "updated_at": "2026-03-27T19:13:46.987633Z",
+  "lead_time": 46.349000000000004
+},
+{
+  "still": "\/data\/upload\/2\/ea6b21e5-33.jpg",
+  "id": 111,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 112,
+  "created_at": "2026-03-27T19:09:54.188210Z",
+  "updated_at": "2026-03-27T19:09:54.188230Z",
+  "lead_time": 1.567
+},
+{
+  "still": "\/data\/upload\/2\/0de757a5-Hotel-Artemis-015.jpg",
+  "id": 112,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 111,
+  "created_at": "2026-03-27T19:09:51.693484Z",
+  "updated_at": "2026-03-27T19:09:51.693505Z",
+  "lead_time": 2.284
+},
+{
+  "still": "\/data\/upload\/2\/b42b7488-43-944.jpg",
+  "id": 113,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 102,
+  "created_at": "2026-03-27T19:09:31.038074Z",
+  "updated_at": "2026-03-27T19:09:31.038090Z",
+  "lead_time": 2.231
+},
+{
+  "still": "\/data\/upload\/2\/14ad8610-The-Bay-Carriage-18.jpg",
+  "id": 114,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 103,
+  "created_at": "2026-03-27T19:09:32.415512Z",
+  "updated_at": "2026-03-27T19:09:32.415540Z",
+  "lead_time": 3.7150000000000003
+},
+{
+  "still": "\/data\/upload\/2\/405c79db-Bloodsuckers-05.jpg",
+  "id": 115,
+  "shot_type": "wide",
+  "annotator": 1,
+  "annotation_id": 104,
+  "created_at": "2026-03-27T19:09:36.084107Z",
+  "updated_at": "2026-03-27T19:09:36.084131Z",
+  "lead_time": 2.6180000000000003
+},
+{
+  "still": "\/data\/upload\/2\/f78862b6-Maestro-03.jpg",
+  "id": 116,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 105,
+  "created_at": "2026-03-27T19:09:37.963232Z",
+  "updated_at": "2026-03-27T19:09:37.963261Z",
+  "lead_time": 3.616
+},
+{
+  "still": "\/data\/upload\/2\/93526a65-vlcsnap-2012-10-14-14h52m58s102.jpg",
+  "id": 117,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 106,
+  "created_at": "2026-03-27T19:09:39.832587Z",
+  "updated_at": "2026-03-27T19:09:39.832613Z",
+  "lead_time": 3.7140000000000004
+},
+{
+  "still": "\/data\/upload\/2\/78a33bbf-Cam-053.jpg",
+  "id": 118,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 107,
+  "created_at": "2026-03-27T19:09:41.745398Z",
+  "updated_at": "2026-03-27T19:09:41.745419Z",
+  "lead_time": 3.436
+},
+{
+  "still": "\/data\/upload\/2\/be6cd086-61.jpg",
+  "id": 119,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 108,
+  "created_at": "2026-03-27T19:09:43.255525Z",
+  "updated_at": "2026-03-27T19:09:43.255556Z",
+  "lead_time": 2.713
+},
+{
+  "still": "\/data\/upload\/2\/fce3b8e1-Legend-14.jpg",
+  "id": 120,
+  "shot_type": "close_up",
+  "annotator": 1,
+  "annotation_id": 109,
+  "created_at": "2026-03-27T19:09:46.041543Z",
+  "updated_at": "2026-03-27T19:32:03.067129Z",
+  "lead_time": 12.539
+},
+{
+  "still": "\/data\/upload\/2\/b180b3f9-Micmacs-019.jpg",
+  "id": 121,
+  "shot_type": "medium",
+  "annotator": 1,
+  "annotation_id": 110,
+  "created_at": "2026-03-27T19:09:48.246115Z",
+  "updated_at": "2026-03-27T19:09:48.246142Z",
+  "lead_time": 4.048
+}
+]
