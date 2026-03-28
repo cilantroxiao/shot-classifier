@@ -13,6 +13,7 @@
 - Edge density: the approximate amount of visual detail in each frame
 - Face fraction: the proportion of the frame occupied by a face
 - Average brightness: mean pixel intensity\
+
 These features were used as inputs for a multiclass logistic regression model.
 
 ### Model
