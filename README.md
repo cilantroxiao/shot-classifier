@@ -1,5 +1,6 @@
   # Film Shot Type Classification
-<p align="center"><<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/134f8c92-58a7-40d2-a8d8-9c89ff11d1a2" />
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/134f8c92-58a7-40d2-a8d8-9c89ff11d1a2" />
 </p>
   ### Project goal
   Who doesn't love going to the movies? The goal of this project was to predict a simple, measurable property of film frames by shot type and correlate that to narrative structure. By classifying shots as close-up, medium, or wide, I aimed to quantify film directors' visual storytelling patterns.
@@ -39,7 +40,9 @@ Training loss decreases over epochs = 100000. Test accuracy is noticeably lower 
 ### Future directions of project
 Machine learning still struggles with understanding narrative structure of long-form multimodal media—for example, film! Studying shot types was my first foray into this realm, and for film directors, they are very useful visual storytelling tools! Wide or long shots often establish setting, distance between characters or environments, and a sense of grandness or scale. Close-ups usually heighten feelings of intimacy, emotion, and vulnerability. Medium shots are the standard in between. By playing with these different distances to the camera, directors incite certain feelings and understanding in the viewer. I plan to keep working on exploratory projects similar to this, combining my interest in film and machine learning and hopefully adding more computer vision, multimodal, and LLM components!
 
-<p align="center"><img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/6b01f89b-df21-4855-9c47-59520b1aa7d9" /></p>
+<p align="center">
+  <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6b01f89b-df21-4855-9c47-59520b1aa7d9" />
+</p>
 ### Dependencies
 - Python 3.x
 - NumPy
